@@ -4,7 +4,7 @@ import Menu from './nav';
 
 const Base = ({
     title = "My Title",
-    description = "Welcom to Home page",
+    description = "Welcom to Home",
     className = "bg-dark text-white p-4",
     children
 })=> {
